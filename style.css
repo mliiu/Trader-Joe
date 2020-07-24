@@ -195,15 +195,17 @@ button:hover {
 
 @media only screen and (max-width: 600px) and (min-width: 1px) {
   .header{
-    font-size:32px;
+    font-size:26px;
     margin-top:20%;
   }
   .desc{
     font-size:18px;
     margin-top:4%;
   }
+
   #generator{
     margin-top:7%;
+    font-size:30px;
     margin-bottom:7%;
   }
   .white_content {

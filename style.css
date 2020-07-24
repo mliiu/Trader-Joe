@@ -29,7 +29,7 @@ html{
   font-family:'Sporting';
   color: #E8A3FE;
   position:relative;
-  font-size:40px;
+  font-size:45px;
   width:70%;
   height:55%;
   text-align:center;
@@ -45,7 +45,7 @@ html{
   margin:auto;
   margin-top:1%;
   margin-bottom:4%;
-  font-size:19px;
+  font-size:24px;
   text-align:center;
 }
 
@@ -205,6 +205,12 @@ button:hover {
   #generator{
     margin-top:7%;
     margin-bottom:7%;
+  }
+  .white_content {
+    font-size:14px;
+    height:40%;
+    top:30%;
+    bottom:30%;
   }
   #juicebox{
     display:none;
